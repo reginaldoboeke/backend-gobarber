@@ -9,6 +9,8 @@ ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
+!tmp/uploads/.gitkeep
 
 # Mac OS
 .DS_Store
+._.DS_Store
